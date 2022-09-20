@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:36d686f11f1c41e8a31acdaeeb84e216c9d405795e018ab313fa44b4ca13894d
-size 134
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+transformers
+pytorch-lightning
